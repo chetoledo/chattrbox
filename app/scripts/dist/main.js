@@ -1,0 +1,1 @@
+console.error("\n/home/senor-sol/Documents/Front_End/github_chattrbox/app/scripts/src/main.js:1\nimport ChatApp from './app/scripts/src/dom.js';\n^\nParseError: 'import' and 'export' may appear only with 'sourceType: module'");
